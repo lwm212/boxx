@@ -2,7 +2,7 @@
 
 {
 // spider
-"spider":"https://gitee.com/lwm212/tv/raw/master/JAR/qj731.ja",
+"spider":"https://gitee.com/lwm212/tv/raw/master/JAR/qj731.jar",
 
 // 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=Y2xhbjovL1RWQm94L3R2L2JjLnR4dA=="]}]}],
