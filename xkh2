@@ -6,7 +6,7 @@
 {"key": "csp_77","name": "默认主页3","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},   
 {"key":"csp_xpath_bttwoo","name":"bttwoo","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitee.com/lwm212/tv/raw/master/XP/bttwoo.json"},
 {"key":"csp_xpath_libv","name":"Libvio","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/lwm212/tv/raw/master/XP/libv.json"},
-{"key": "Smdyy","name": "神马","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "csp_Kuaikan","name": "快看","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1,"spider":"https://gitee.com/lwm212/tv/raw/master/JAR/box(1).jar"},
 {"key":"csp_xpath_农民影视","name":"农民","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/lwm212/tv/raw/master/XP/nongminyingshi.json"},
 {"key":"csp_xpath_135kan","name":"看看","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/lwm212/tv/raw/master/XP/135kan.json"},
 {"key":"诺讯资源","name":"诺讯","type":1,"api":"http://caiji.nxflv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
