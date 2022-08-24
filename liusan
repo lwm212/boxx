@@ -8,7 +8,7 @@
 
 {"key":"KanSJ_spider","name":"默认主页2","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"http://static01.imgkr.com/temp/b7d09c90cd4d4ef398d7eae3fdf14538.jpg;md5;7eacb357cf27abce92ed497367221e5a"},
 {"key":"360_spider"        ,"name":"默认主页3","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},	
-{"key": "Smdyy","name": "默认主页4","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "csp_Kuaikan","name": "快看","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1,"spider":"https://gitee.com/lwm212/tv/raw/master/JAR/box(1).jar"},
 {"key":"Wmkk","name":"完美","type":3,"api":"csp_Wmkk","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xpath_农民影视","name":"农民","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/lwm212/tv/raw/master/XP/nongminyingshi.json"},
 {"key":"csp_xpath_135kan","name":"看看","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/lwm212/tv/raw/master/XP/135kan.json"},
