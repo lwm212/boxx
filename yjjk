@@ -14,16 +14,6 @@
 {"key":"Wmkk","name":"完美看看","type":3,"api":"csp_Wmkk","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "zxzj","name": "在线之家","type": 3,"api": "csp_Zxzj","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_xpath_libv","name":"Libvio","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/lwm212/JS/raw/master/XP/libv.json"},
-    {
-        "key": "csp_xpath_chen",
-        "name": "尘落",
-        "type": 3,
-        "api": "csp_XPathFilter",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": "https://gitee.com/lwm212/tv/raw/master/XP/chenluo"
-    },
 
 {"key":"csp_biubiu_大米星球","name":"米星球","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/lwm212/tv/raw/master/XB/大米星球.json"},
 {"key":"csp_xpath_cokemv","name":"Cokemv","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/lwm212/JS/raw/master/XP/cokemv.json"},
