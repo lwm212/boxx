@@ -6,7 +6,7 @@
 {"key":"多多资源","name":"默认主页2","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"categories":["国产剧","港台剧","日韩剧","欧美剧","泰国剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","灾难片","犯罪片","悬疑片","惊悚片","奇幻片","冒险片","武侠片","记录片","综艺","动漫","动画片","国产动漫","日韩动漫","欧美动漫","海外剧","国内综艺","海外综艺"]},
 {"key":"csp_biubiu_voflix","name":"默认主页3","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitee.com/lwm212/tv/raw/master/XB/voflix.json"},
 {"key":"诺讯资源","name":"诺讯","type":1,"api":"http://caiji.nxflv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key": "Smdyy","name": "神马","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "csp_Kuaikan","name": "快看","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1,"spider":"https://gitee.com/lwm212/tv/raw/master/JAR/box(1).jar"},
 {"key": "演唱会","name": " 💿演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gitee.com/lwm212/tv/raw/master/XB/演唱会.json"},
 {"key": "戏曲","name": "戏曲","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/戏曲.json","jar":"http://static01.imgkr.com/temp/b7d09c90cd4d4ef398d7eae3fdf14538.jpg;md5;3e2f0cfa32edf19529a97aec9faf68c2"},
 {"key": "AliPS","name": "盘搜(搜索)","type": 3,"api": "csp_AliPanSou","searchable": 1,"quickSearch": 1,"filterable": 1},
